@@ -4,3 +4,4 @@ git config user.email ''
 
 git add .
 git status
+git commit -m "Updated"
